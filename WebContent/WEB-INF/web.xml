@@ -12,7 +12,7 @@
 		<param-name>contextConfigLocation</param-name>
 		<param-value>
 			/WEB-INF/applicationContext.xml
-			/WEB-INF/springdemo-security.xml
+			/WEB-INF/springdemo-security.xmll
 		</param-value>
 	</context-param>
 
